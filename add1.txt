@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-master*************hello****************
-=======
-develop
 **************
-hello
+hello master
 **************
->>>>>>> develop
+
+**************
+hello  develop
+**************
